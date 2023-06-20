@@ -15,3 +15,5 @@
 </div>
 
 Dev Back-End .NET busco oportunidades para adquirir conhecimento, e me desenvolver profissionalmente com foco na área de programação e suas tecnologias.
+
+![Snake animation](https://github.com/BrunoRusso1/BrunoRusso1/blob/output/github-contribution-grid-snake.svg)
